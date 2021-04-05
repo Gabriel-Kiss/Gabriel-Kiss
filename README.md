@@ -30,3 +30,10 @@
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Kiss&theme=buefy&show_icons=true" />
   </a>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gabriel-kiss-london/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Kiss-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:gabi_kiss2004@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabi_kiss2004@yahoo.com-blue?style=flat-square&logo=gmail"></a>
+</p>
